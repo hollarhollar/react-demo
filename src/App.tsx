@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Hello! This is React-Demo app which was built and deployed to Azure with Azure DevOps
         </p>
         <a
           className="App-link"
